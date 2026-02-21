@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "lunarg-block:item/vulkan_triangle"
+  }
+}

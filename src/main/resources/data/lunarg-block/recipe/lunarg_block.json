@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TTT",
+    "TTT",
+    "TTT"
+  ],
+  "key": {
+    "T": "lunarg-block:vulkan_triangle"
+  },
+  "result": {
+    "id": "lunarg-block:lunarg_block",
+    "count": 1
+  }
+}

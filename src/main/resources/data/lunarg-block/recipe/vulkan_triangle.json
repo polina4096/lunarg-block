@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    "GWB"
+  ],
+  "key": {
+    "R": "minecraft:red_dye",
+    "G": "minecraft:green_dye",
+    "B": "minecraft:blue_dye",
+    "W": "minecraft:white_dye"
+  },
+  "result": {
+    "id": "lunarg-block:vulkan_triangle",
+    "count": 16
+  }
+}

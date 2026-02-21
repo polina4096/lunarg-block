@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "lunarg-block",
+	"version": "${version}",
+	"name": "lunarg block",
+	"description": "this scares minecraft players",
+	"authors": [
+		"polina4096"
+	],
+	"contact": {
+		"sources": "https://github.com/polina4096/lunarg-block"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/lunarg-block/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			{
+				"value": "me.transmute.mem.std.LunargBlock",
+				"adapter": "kotlin"
+			}
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*",
+		"fabric-language-kotlin": "*"
+	}
+}
